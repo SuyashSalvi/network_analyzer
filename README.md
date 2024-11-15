@@ -150,16 +150,11 @@ network-analyzer/
 
 ---
 
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## **Contact**
 For questions or contributions, feel free to reach out:
-- **Author**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
+- **Author**: Suyash Salvi
+- **Email**: ssalvi2898@gmail.com
 
 ---
 
